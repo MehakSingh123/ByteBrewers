@@ -1,0 +1,16 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "app.js", // This should be the entry point of your Node.js application
+  "scripts": {
+      "start": "node app.js" // The "start" script to run your Node.js application
+  },
+  "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0"
+      // Add any other dependencies your project uses here
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
